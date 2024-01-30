@@ -17,8 +17,8 @@ const internAge=22;
 // Declaring variables to store your first name, last name, marital status, country and age in a single line
 let firstName="Vineet",lastName="Patil",maritalStatus="Single",age=22;
 // Declaring two variables myAge and yourAge and assign them initial values and log to the browser console
-let myAge=21;
-let yourAge=22;
+const myAge=21;
+const yourAge=22;
 console.log("myAge"+myAge)
 console.log("yourAge"+yourAge)
 
